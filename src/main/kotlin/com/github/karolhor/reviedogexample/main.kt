@@ -1,7 +1,7 @@
 package com.github.karolhor.reviedogexample
 
-import com.github.karolhor.reviedogexample.other.Compute
 import java.util.UUID
+import com.github.karolhor.reviedogexample.other.Compute
 
 fun main() {
     val id = UUID.randomUUID()
